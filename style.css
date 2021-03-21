@@ -1,0 +1,39 @@
+.header{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    color: cornsilk;
+    margin: 25px;
+    padding: 30px;
+}
+a:visited{
+    color: ghostwhite;
+}
+.origami{
+    display:flex;
+    flex-wrap:wrap ;
+    justify-content: space-evenly;
+    background-color: peachpuff;
+    color:black ;
+    margin: 25px;
+    padding: 30px;
+}
+.intro{
+    background-color: peachpuff;
+    color: royalblue;
+    margin: 25px;
+    padding: 30px;
+}
+.origami img{
+    border: 5px solid black;
+    border-radius: 50px;
+}
+.item{
+    width:350px;
+    background-color: floralwhite;
+    border-radius: 20px;
+    margin:25px;
+    padding:25px;
+    padding-left: 30px;
+}
